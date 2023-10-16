@@ -1,3 +1,11 @@
+# CoolHandyODESolver
+
+A fork of pyplane to make some changes & improvements without breaking upstream.
+Here are the things I want to implement:
+
+- New UI. Either migrate to Qt6 or ditch Qt entirely.
+  - Leaning towards the second option
+  
 # PyPLANE
 
 An open source replacement to the traditional DFIELD and PPLANE applications for solving systems of ODEs
