@@ -4,7 +4,8 @@ A fork of pyplane to make some changes & improvements without breaking upstream.
 Here are the things I want to implement:
 
 - New UI. Either migrate to Qt6 or ditch Qt entirely.
-  - Leaning towards the second option
+  - Leaning towards the second option. Tempted to make a web fontend.
+- Rethink application distribution. Server deployment needed if I make a webapp.
   
 # PyPLANE
 
