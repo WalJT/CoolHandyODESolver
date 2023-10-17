@@ -6,6 +6,7 @@ Here are the things I want to implement:
 - New UI. Either migrate to Qt6 or ditch Qt entirely.
   - Leaning towards the second option. Tempted to make a web fontend.
 - Rethink application distribution. Server deployment needed if I make a webapp.
+- Export systems (JSON for re-import) and results (PDF)
   
 # PyPLANE
 
