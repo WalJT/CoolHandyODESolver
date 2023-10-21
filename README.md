@@ -7,6 +7,11 @@ Here are the things I want to implement:
   - Leaning towards the second option. Tempted to make a web fontend.
 - Rethink application distribution. Server deployment needed if I make a webapp.
 - Export systems (JSON for re-import) and results (PDF)
+
+## TODO for release
+
+- [ ] WebUI re-implementing inputs and graph plotting from Qt6 UI
+- [ ] Rename package source directory & package to CoolHandyODESolver
   
 # PyPLANE
 
