@@ -10,9 +10,11 @@ Here are the things I want to implement:
 
 ## TODO for release
 
-- [ ] WebUI re-implementing inputs and graph plotting from Qt6 UI
+- [ ] WebUI re-implementing inputs and graph plotting from Qt5 UI
 - [ ] Rename package source directory & package to CoolHandyODESolver
 - [ ] Clean README (Remove or rewrite PyPLANE docs)
+- [ ] Remove Qt5 code?
+- [ ] Clean requirements
   
 # PyPLANE
 
