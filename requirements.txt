@@ -5,3 +5,4 @@ PyQt5
 scipy
 pre-commit
 flask
+flask-wtf
