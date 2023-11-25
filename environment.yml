@@ -7,7 +7,7 @@ dependencies:
   - numpy
   - sympy
   - scipy
-  - PyQt5 # To run legacy code
   - pip
   - pip:
       - nicegui
+      - PyQt5 # To run legacy code
