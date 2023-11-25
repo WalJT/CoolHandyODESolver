@@ -1,0 +1,13 @@
+name: eqnplot
+channels:
+  - defaults
+dependencies:
+  - python >=3.11,<3.12
+  - matplotlib
+  - numpy
+  - sympy
+  - scipy
+  - PyQt5 # To run legacy code
+  - pip
+  - pip:
+      - nicegui
