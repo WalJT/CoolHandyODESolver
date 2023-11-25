@@ -1,4 +1,4 @@
-name: eqnplot
+name: CHODES
 channels:
   - defaults
 dependencies:
