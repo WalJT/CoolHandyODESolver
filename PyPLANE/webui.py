@@ -37,7 +37,7 @@ with ui.row():
             ui.label(" = ")
             ui.input(label="Parameter Value", placeholder="<a number>")
         
-        ui.button("Add new parameter")
+        ui.button("Plot")
 
 
     with ui.card():
