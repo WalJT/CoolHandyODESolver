@@ -15,8 +15,8 @@ with ui.row():
         ui.markdown("# Inputs\n## Equations")
 
         # Inputs for the derivative of x and y
-        ui.input(label="x' = ")
-        ui.input(label="y' = ")
+        x_prime = ui.input(label="x' = ")
+        y_prime = ui.input(label="y' = ")
 
         # Inputs for the limits of the x and y axes on the plot that will be generated
         ui.markdown("## Limits of plot axes")
