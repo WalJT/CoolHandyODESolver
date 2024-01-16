@@ -3,26 +3,26 @@
 A fork of pyplane to make some changes & improvements without breaking upstream.
 Here are the things I want to implement:
 
-- New UI. Either migrate to Qt6 or ditch Qt entirely.
-  - Leaning towards the second option. Tempted to make a web fontend.
-- Rethink application distribution. Server deployment needed if I make a webapp.
+- It's a Web app now
 - Export systems (JSON for re-import) and results (PDF)
 
 ## TODO for release
 
-- [ ] WebUI re-implementing inputs and graph plotting from Qt5 UI
+- [x] Skeleton WebUI re-implementing inputs and graph plotting from Qt5 UI
 - [ ] Read information and generate plot on button click
-  - [ ] Dnamically add more parameters
-    - [ ] Automatically add when non-mathematical symbol detected in equation
-  - Using NiceGUI: <https://nicegui.io>
+  - [ ] Store equations as strings to be parsed by sympy
+  - [ ] plot limits as numbers (float)
+  - [ ] Parameters (key:value pairs, should probably be a dict)
 - [ ] Rename package source directory & package to CoolHandyODESolver
 - [ ] Clean README (Remove or rewrite PyPLANE docs)
 
 ## TODO for future
 
 - [ ] Clean requirements
-  - [x] Standardise on anaconda and setup `environment.yml`
+  - [x] Standardize on anaconda and setup `environment.yml`
 - [ ] Remove Qt5 code
+- [ ] [ ] Dynamically add more parameters
+  - [ ] Automatically add when non-mathematical symbol detected in equation
 
 # PyPLANE
 
