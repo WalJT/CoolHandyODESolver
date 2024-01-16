@@ -9,10 +9,11 @@ Here are the things I want to implement:
 ## TODO for release
 
 - [x] Skeleton WebUI re-implementing inputs and graph plotting from Qt5 UI
-- [ ] Read information and generate plot on button click
+- [ ] Read information passed by user
   - [ ] Store equations as strings to be parsed by sympy
   - [ ] plot limits as numbers (float)
   - [ ] Parameters (key:value pairs, should probably be a dict)
+- [ ] Generate a plot from information passed when a button is clicked
 - [ ] Rename package source directory & package to CoolHandyODESolver
 - [ ] Clean README (Remove or rewrite PyPLANE docs)
 
