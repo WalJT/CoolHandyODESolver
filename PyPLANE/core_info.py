@@ -1,4 +1,4 @@
-# A single place to set core info about PyPLANE
+# A single place to set core info about CoolHandyODESolver
 
-VERSION = "0.2-beta"
-LICENCE = "GPL-3.0"
+VERSION = "dev"
+LICENSE = "GPL-3.0"
